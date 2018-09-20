@@ -39,7 +39,8 @@ public class NewClass extends Activity {
             public void onClick(View view) {
 
                 Log.v(TAG, "Insert");
-                Intent intent = new Intent(this, )
+                Intent intent = new Intent(NewClass.this, ClassList.class);
+                startActivity(intent);
 
 
             }
