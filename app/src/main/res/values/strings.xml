@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Class Organizer</string>
+    <string name="class_name">Class Name</string>
+    <string name="class_code">Class Code</string>
+    <string name="insert">Insert</string>
+    <string name="clr">Clear</string>
 </resources>
